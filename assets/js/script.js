@@ -20,7 +20,7 @@ const x = document.getElementById('x');
 const tiktok = document.getElementById('tiktok');
 
 github.addEventListener('click', () => {
-    window.location.href = "sunset.html";
+    window.location.href = "https://github.com/FZfortirex/";
 })
 
 instagram.addEventListener('click', () => {
