@@ -28,7 +28,7 @@ instagram.addEventListener('click', () => {
 })
 
 portfolio.addEventListener('click', () => {
-    window.location.href = "portofolio.html"
+    window.location.href = "https://fzfortirex.github.io/portfolio/"
 })
 
 x.addEventListener('click', () => {
